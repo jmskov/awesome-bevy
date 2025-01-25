@@ -6,7 +6,7 @@ In alphabetical order until there are enough to categorize.
 
 - [`avian`](https://github.com/Jondolf/avian) - 2D and 3D ECS-based physics. Straightforward to setup physics and colliders of all sorts.
 
-- [`blenvy`](https://github.com/kaosat-dev/Blenvy) - A crate (and Blender plugin) that bridges 
+- [`blenvy`](https://github.com/kaosat-dev/Blenvy) - A crate (and Blender plugin) that bridges Blender level design and Bevy in a fairly seamless way. 
 
 - [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi) - Awesome geometric particle effects, limited only by your imagination.
 
