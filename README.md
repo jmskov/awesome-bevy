@@ -8,11 +8,11 @@ In alphabetical order until there are enough to categorize.
 
 - [`blenvy`](https://github.com/kaosat-dev/Blenvy) - A crate (and Blender plugin) that bridges 
 
+- [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi) - Awesome geometric particle effects, limited only by your imagination.
+
 - [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline) - Outline meshes with lines of different color and thickness.
 
 - [`bevy_spatial`](https://github.com/laundmo/bevy-spatial) - Spatial data structures for Bevy. I used its KD Tree implementation for nearest-neighbor lookups in dense scenes.
-
-- [`hanabi`]() - Awesome geometric particle effects, limited only by your imagination.
 
 - [`ron`](https://github.com/ron-rs/ron) - Rusty Object Notation. Easy to load up assets and other game components defined in RON files. Bevy-centric use available through the [`bevy_common_assets`](https://github.com/NiklasEi/bevy_common_assets) crate.
 
